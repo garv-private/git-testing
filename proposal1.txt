@@ -1,4 +1,6 @@
 adding something for second commit
 Don't push your feelings onto github!!
 
+added something
+
 Added new  line for checking the functioning of git diff
